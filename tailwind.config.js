@@ -14,5 +14,5 @@ export default {
       },
     },
   },
-  plugins: [fluid],
+  plugins: [fluid, require("tailwindcss-animated")],
 };
